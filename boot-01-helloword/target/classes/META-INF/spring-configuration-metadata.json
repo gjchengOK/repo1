@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "pet",
+      "type": "com.guo.bean.Pet",
+      "sourceType": "com.guo.bean.Pet"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pet.name",
+      "type": "java.lang.String",
+      "sourceType": "com.guo.bean.Pet"
+    }
+  ],
+  "hints": []
+}
